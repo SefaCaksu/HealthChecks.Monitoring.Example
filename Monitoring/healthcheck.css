@@ -1,0 +1,14 @@
+﻿
+:root {
+    --primaryColor: #4e6dd2;
+    --secondaryColor: #f4f4f4;
+    --bgMenuActive: #2e3a43bd;
+    --bgButton: #4e6dd2;
+    --logoImageUrl: url('https://lablab.ai/_next/image?url=https%3A%2F%2Fstorage.googleapis.com%2Flablab-static-eu%2Fimages%252Fusers%252Fclf2warvl003ack0snh339tay_81i3llr_picture.jpg&w=256&q=75');
+    --bgAside: var(--primaryColor);
+}
+
+
+.hc-aside__logo{
+    border-radius:10%!important;
+}
